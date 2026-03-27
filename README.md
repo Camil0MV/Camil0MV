@@ -5,19 +5,21 @@
   Systems Engineering student focused on backend development. Passionate about building scalable systems and solving real-world problems.
 </p>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camil0MV&show_icons=true&theme=tokyonight&hide=prs,issues&show=reviews,prs_merged&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Camil0MV&show_icons=true&theme=tokyonight&hide=prs,issues&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camil0MV&layout=compact&theme=tokyonight&bg_color=00000000" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Camil0MV&theme=java-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -27,7 +29,6 @@
 - 📚 Currently learning backend architecture and system design  
 - 🚀 Looking for my first opportunity as a backend developer  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +54,6 @@
 - Azure DevOps
 - Trello
 
----
 
 ## 📌 Featured Project
 
@@ -65,10 +65,9 @@
 - Data validation and error handling  
 - Tested endpoints using Postman  
 
----
 
 ## 📫 Contact
 
 - 📧 Email: camilomosquerav@gmail.com  
-- 💼 LinkedIn: (pon tu link)  
+- 💼 LinkedIn: https://www.linkedin.com/in/camilo-mosquera-vega-b3b95b2ab/ 
 - 🐙 GitHub: https://github.com/Camil0MV
