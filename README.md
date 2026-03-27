@@ -10,16 +10,6 @@
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camil0MV&show_icons=true&theme=tokyonight&hide=prs,issues&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camil0MV&layout=compact&theme=tokyonight&bg_color=00000000" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Camil0MV&theme=java-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
