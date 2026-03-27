@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camil0MV&show_icons=true&theme=tokyonight&hide=prs,issues&bg_color=00000000" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camil0MV&show_icons=true&theme=tokyonight&hide=prs,issues&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
