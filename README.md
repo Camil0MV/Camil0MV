@@ -21,8 +21,9 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Camil0MV&theme=java-dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Camil0MV&theme=java-dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
+</a>
 
 ---
 
@@ -57,7 +58,7 @@ Now I focus on understanding request flow, dependency injection, and system arch
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
-**Frontend & UI**
+**Frontend & UI**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
