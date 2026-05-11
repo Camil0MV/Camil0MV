@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Camilo Mosquera 👋</h1>
 
-<h3 align="center">Junior Java Backend Developer · Spring Boot · REST APIs · PostgreSQL</h3>
+<h3 align="center">Junior Software Developer · Java Backend · Spring Boot · REST APIs · PostgreSQL</h3>
 
 <p align="center">
   Systems Engineering student (7th semester) at Universidad de Antioquia.<br/>
@@ -57,11 +57,14 @@ Now I focus on understanding request flow, dependency injection, and system arch
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
-**Frontend (basic)**  
+**Frontend & UI**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Tools & Workflow**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -75,7 +78,20 @@ Now I focus on understanding request flow, dependency injection, and system arch
 
 ### 🏦 Digital Banking Backend *(Team project · In progress)*
 REST API for a digital banking system built with a team following Scrum on Azure DevOps.
-- Spring Boot · Java 21 · PostgreSQL (Neon) · Spring Security · JWT
-- Layered architecture: Controller → Service → Repository
-- Responsible for: security module, entity models, and project configuration
-- Credential incident managed and resolved; repos
+* Spring Boot · Java 21 · PostgreSQL (Neon) · Spring Security · JWT
+* Layered architecture: Controller → Service → Repository
+* Responsible for: security module, entity models, and project configuration
+* Credential incident managed and resolved; repos
+
+* 🔗 Live Demo: https://banco-digital-backend-u3ts.onrender.com)
+
+### ⚽ UniLeague UTB *(Frontend prototype · Academic fair project)*
+Modern responsive prototype of a university sports tournament platform designed for academic exhibition purposes.
+* Next.js · TypeScript · TailwindCSS · Framer Motion
+* Sports dashboard-inspired UI
+* Responsive single-page application
+* Institutional visual design inspired by UTB branding
+* Includes sports sections, match calendar, and standings table
+* Focused on frontend architecture, UI consistency, and user experience
+
+🔗 Live Demo: https://v0-unileague-utb.vercel.app/
