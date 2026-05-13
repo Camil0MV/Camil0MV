@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1584" height="396" alt="Banner 32 - Linkedin" src="https://github.com/user-attachments/assets/6b87c913-7c10-4cc8-ad07-0547b5dd0ae0" />
+  <img width="1584" height="396" alt="Banner 32 - Linkedin" src="https://github.com/user-attachments/assets/062cb8fa-ad64-4bfb-855f-536edc550717" />
 </p>
 
 <h1 align="center">Hi, I'm Camilo Mosquera 👋</h1>
