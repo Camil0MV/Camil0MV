@@ -109,12 +109,20 @@ Comprehensive data analysis project on dengue trends in Colombia using public he
 
 🔗 Repository: https://github.com/Camil0MV/colombia-dengue-data-analysis
 
-### 💰 Expense Tracker *(Personal finance application)*
+### 💰 Expense Tracker *(Personal Finance Application)*
 Full-stack web application for tracking personal expenses and managing budgets.
-* Next.js · TypeScript · TailwindCSS (Frontend) · Node.js · Express (Backend)
-* Real-time expense tracking and budget management
-* User authentication and secure data storage
-* Charts and visual reports for spending analysis
-* Responsive design for mobile and desktop
+
+**Tech Stack:**
+* Frontend: Vite · TypeScript · CSS (Responsive Design)
+* Backend: Java 21 · Spring Boot · Spring Data JPA · H2 Database
+* API: REST with OpenAPI/Swagger documentation
+
+**Features:**
+* ✅ Track expenses by category (Food, Transport, Entertainment, Other)
+* ✅ Real-time expense listing and filtering
+* ✅ Delete and manage expenses
+* ✅ Calculate total spending by category
+* ✅ In-memory database for quick prototyping
+* ✅ Responsive web interface for mobile and desktop
 
 🔗 Repository: https://github.com/Camil0MV/expense-tracker
