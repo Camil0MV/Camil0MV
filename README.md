@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Camil0MV&theme=java-dark&hide_border=true&mode=daily " alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Camil0MV&theme=java-dark&hide_border=true&mode=daily" alt="GitHub Streak" />
   </a>
 </p>
 
