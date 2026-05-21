@@ -98,3 +98,23 @@ Modern responsive prototype of a university sports tournament platform designed 
 * Focused on frontend architecture, UI consistency, and user experience
 
 🔗 Live Demo: https://v0-unileague-utb.vercel.app/
+
+### 📊 Colombia Dengue Data Analysis *(Data analysis & visualization project)*
+Comprehensive data analysis project on dengue trends in Colombia using public health datasets.
+* Python · Pandas · NumPy · Matplotlib · Seaborn
+* Statistical analysis and data visualization of dengue cases across Colombian regions
+* Time-series analysis and trend forecasting
+* Interactive dashboards and exploratory data analysis (EDA)
+* Insights on seasonal patterns and geographic distribution
+
+🔗 Repository: https://github.com/Camil0MV/colombia-dengue-data-analysis
+
+### 💰 Expense Tracker *(Personal finance application)*
+Full-stack web application for tracking personal expenses and managing budgets.
+* Next.js · TypeScript · TailwindCSS (Frontend) · Node.js · Express (Backend)
+* Real-time expense tracking and budget management
+* User authentication and secure data storage
+* Charts and visual reports for spending analysis
+* Responsive design for mobile and desktop
+
+🔗 Repository: https://github.com/Camil0MV/expense-tracker
