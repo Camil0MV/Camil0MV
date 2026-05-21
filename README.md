@@ -118,11 +118,11 @@ Full-stack web application for tracking personal expenses and managing budgets.
 * API: REST with OpenAPI/Swagger documentation
 
 **Features:**
-* ✅ Track expenses by category (Food, Transport, Entertainment, Other)
-* ✅ Real-time expense listing and filtering
-* ✅ Delete and manage expenses
-* ✅ Calculate total spending by category
-* ✅ In-memory database for quick prototyping
-* ✅ Responsive web interface for mobile and desktop
+* Track expenses by category (Food, Transport, Entertainment, Other)
+* Real-time expense listing and filtering
+* Delete and manage expenses
+* Calculate total spending by category
+* In-memory database for quick prototyping
+* Responsive web interface for mobile and desktop
 
 🔗 Repository: https://github.com/Camil0MV/expense-tracker
