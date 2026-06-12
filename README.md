@@ -88,17 +88,6 @@ REST API for a digital banking system built with a team following Scrum on Azure
 
 * 🔗 Live Demo: https://banco-digital-backend-u3ts.onrender.com)
 
-### ⚽ UniLeague UTB *(Frontend prototype · Academic fair project)*
-Modern responsive prototype of a university sports tournament platform designed for academic exhibition purposes.
-* Next.js · TypeScript · TailwindCSS · Framer Motion
-* Sports dashboard-inspired UI
-* Responsive single-page application
-* Institutional visual design inspired by UTB branding
-* Includes sports sections, match calendar, and standings table
-* Focused on frontend architecture, UI consistency, and user experience
-
-🔗 Live Demo: https://v0-unileague-utb.vercel.app/
-
 ### 📊 Colombia Dengue Data Analysis *(Data analysis & visualization project)*
 Comprehensive data analysis project on dengue trends in Colombia using public health datasets.
 * Python · Pandas · NumPy · Matplotlib · Seaborn
@@ -108,21 +97,3 @@ Comprehensive data analysis project on dengue trends in Colombia using public he
 * Insights on seasonal patterns and geographic distribution
 
 🔗 Repository: https://github.com/Camil0MV/colombia-dengue-data-analysis
-
-### 💰 Expense Tracker *(Personal Finance Application)*
-Full-stack web application for tracking personal expenses and managing budgets.
-
-**Tech Stack:**
-* Frontend: Vite · TypeScript · CSS (Responsive Design)
-* Backend: Java 21 · Spring Boot · Spring Data JPA · H2 Database
-* API: REST with OpenAPI/Swagger documentation
-
-**Features:**
-* Track expenses by category (Food, Transport, Entertainment, Other)
-* Real-time expense listing and filtering
-* Delete and manage expenses
-* Calculate total spending by category
-* In-memory database for quick prototyping
-* Responsive web interface for mobile and desktop
-
-🔗 Repository: https://github.com/Camil0MV/expense-tracker
