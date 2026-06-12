@@ -7,7 +7,7 @@
 <h3 align="center">Junior Software Developer · Java Backend · Spring Boot · REST APIs · PostgreSQL</h3>
 
 <p align="center">
-  Systems Engineering student (7th semester) at Universidad de Antioquia.<br/>
+  Systems Engineering student (8th semester) at Universidad de Antioquia.<br/>
   I don't just write code that works — I focus on understanding <em>why</em> it works.<br/>
   Teaching Assistant for the Programming Techniques course @ UdeA.
 </p>
