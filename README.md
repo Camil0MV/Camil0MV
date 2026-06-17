@@ -88,7 +88,7 @@ REST API for a digital banking system built with a team following Scrum on Azure
 * Responsible for: security module, entity models, and project configuration
 * Credential incident managed and resolved; repos
 
-* 🔗 Live Demo: https://banco-digital-backend-u3ts.onrender.com)
+* 🔗 Live Demo: https://banco-digital-backend-u3ts.onrender.com/swagger-ui/index.html#/
 
 ### 📊 Colombia Dengue Data Analysis *(Data analysis & visualization project)*
 Comprehensive data analysis project on dengue trends in Colombia using public health datasets.
