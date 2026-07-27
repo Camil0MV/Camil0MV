@@ -48,17 +48,22 @@ Now I focus on understanding request flow, dependency injection, and system arch
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Apollo_GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat&logo=apollographql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 ![JPA/Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 **Frontend & UI**  
@@ -81,21 +86,22 @@ Now I focus on understanding request flow, dependency injection, and system arch
 
 ## 📌 Featured Projects
 
+### 🎬 ScoreFilm *(Personal project · In progress)*
+Microservices-based backend platform for rating movies, TV shows, anime, and documentaries using a multidimensional review system instead of a single score.
+* Spring Boot · NestJS · GraphQL · MongoDB · PostgreSQL · Docker
+* Monorepo architecture with Spring Boot (authentication) and NestJS (catalog service)
+* Secure authentication using Spring Security, JWT (RS256), and JWKS between microservices
+* TMDB integration for movie and TV metadata with a layered, extensible architecture
+* Features include reviews, favorites, watchlist, filtering, pagination, and unit testing
+* Currently expanding with Redis caching, observability, CI/CD, AWS deployment, and an Angular frontend
+
+🔗 Repository: https://github.com/Camil0MV/ScoreFilm
+
 ### 🏦 Digital Banking Backend *(Team project · In progress)*
 REST API for a digital banking system built with a team following Scrum on Azure DevOps.
 * Spring Boot · Java 21 · PostgreSQL (Neon) · Spring Security · JWT
 * Layered architecture: Controller → Service → Repository
 * Responsible for: security module, entity models, and project configuration
-* Credential incident managed and resolved; repos
+* Credential incident managed and resolved
 
 * 🔗 Live Demo: https://banco-digital-backend-u3ts.onrender.com/swagger-ui/index.html#/
-
-### 📊 Colombia Dengue Data Analysis *(Data analysis & visualization project)*
-Comprehensive data analysis project on dengue trends in Colombia using public health datasets.
-* Python · Pandas · NumPy · Matplotlib · Seaborn
-* Statistical analysis and data visualization of dengue cases across Colombian regions
-* Time-series analysis and trend forecasting
-* Interactive dashboards and exploratory data analysis (EDA)
-* Insights on seasonal patterns and geographic distribution
-
-🔗 Repository: https://github.com/Camil0MV/colombia-dengue-data-analysis
