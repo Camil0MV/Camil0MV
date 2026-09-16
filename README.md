@@ -95,7 +95,7 @@ Microservices-based backend platform for rating movies, TV shows, anime, and doc
 
 🔗 Repository: https://github.com/Camil0MV/ScoreFilm
 
-### 🏦 Digital Banking Backend *(Team project · In progress)*
+### 🏦 Digital Banking Backend *(Team project · Completed)*
 REST API for a digital banking system built with a team following Scrum on Azure DevOps.
 * Spring Boot · Java 21 · PostgreSQL (Neon) · Spring Security · JWT
 * Layered architecture: Controller → Service → Repository
