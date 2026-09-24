@@ -130,3 +130,5 @@ Exploratory analysis of epidemiological data on dengue cases in Colombia from 20
 * Conducted univariate and multivariate analysis, correlation analysis, and temporal pattern analysis
 * Detected and analyzed outliers and applied data transformations during the preparation process
 * Developed reproducible Jupyter notebooks and visualizations to communicate analytical findings
+
+🔗 Repository: https://github.com/Camil0MV/dengue-colombia-analisis
